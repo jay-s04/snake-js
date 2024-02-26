@@ -13,7 +13,7 @@ body {
 
 body,
 .snake {
-    background-color: #414141;
+    background-color: #544343;
 }
 
 #game-board {
@@ -25,19 +25,19 @@ body,
 }
 
 .game-border-1 {
-    border: #595f43 solid 10px;
+    border: #5f4343 solid 10px;
     border-radius: 30px;
-    box-shadow: inset 0 0 0 10px #595f43;
+    box-shadow: inset 0 0 0 10px #5f4343;
 }
 .game-border-2 {
-    border: #abb78a solid 8px;
+    border: #b78a8a solid 8px;
     border-radius: 26px;
-    box-shadow: inset 0 0 0 10px #abb78a;
+    box-shadow: inset 0 0 0 10px #b78a8a;
 }
 .game-border-3 {
-    border: #8b966c solid 30px;
+    border: #966c6c solid 30px;
     border-radius: 20px;
-    box-shadow: inset 0 0 0 5px #8b966c;
+    box-shadow: inset 0 0 0 5px #966c6c;
 }
 
 #instruction-text {
@@ -59,7 +59,7 @@ body,
 }
 
 #score {
-    color: #abb78a;
+    color: #b78a8a;
 }
 
 #score, 
@@ -70,13 +70,13 @@ body,
 }
 
 #highScore {
-    color: #d8ddc8;
+    color: #ddc8c8;
     display: none;
 }
 
 .game-border-3,
 #logo {
-    background-color: #c4cfa3;
+    background-color: #cfa3a3;
 }
 
 .snake {
